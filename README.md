@@ -197,6 +197,5 @@ The Online PC Mart project provided valuable practical experience in designing a
 
 This platform aims to simplify the PC buying experience for users while also serving as a useful academic reference for students and developers interested in similar projects.
 
-👨‍💻 Developer
-DHUN ACHARYA(DhunA19)
-Full Stack Developer
+👨‍💻 Developed by: Dhun Acharya(full-Stack Developer)
+
